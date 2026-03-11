@@ -29,7 +29,7 @@ This project builds a fake news classification system using BERT fine-tuning and
 - False Positive (Real → Fake): 7
 - False Negative (Fake → Real): 14
 
-![Error Analysis](error_analysis.png)
+![Error Analysis](results/error_analysis.png)
 
 ## Key Findings
 
