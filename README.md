@@ -54,7 +54,7 @@ pip install datasets transformers shap torch
 ```
 
 ## Usage
-Open `fakenews_bert.ipynb` in Google Colab (GPU recommended) and run cells sequentially.
+Open `fakenews_detection.ipynb` in Google Colab (GPU recommended) and run cells sequentially.
 
 ## Tech Stack
 - Python, PyTorch
